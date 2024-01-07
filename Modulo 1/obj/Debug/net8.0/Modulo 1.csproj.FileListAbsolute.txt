@@ -1,0 +1,14 @@
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\bin\Debug\net8.0\Modulo 1.exe
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\bin\Debug\net8.0\Modulo 1.deps.json
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\bin\Debug\net8.0\Modulo 1.runtimeconfig.json
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\bin\Debug\net8.0\Modulo 1.dll
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\bin\Debug\net8.0\Modulo 1.pdb
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\obj\Debug\net8.0\Modulo 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\obj\Debug\net8.0\Modulo 1.AssemblyInfoInputs.cache
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\obj\Debug\net8.0\Modulo 1.AssemblyInfo.cs
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\obj\Debug\net8.0\Modulo 1.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\obj\Debug\net8.0\Modulo 1.dll
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\obj\Debug\net8.0\refint\Modulo 1.dll
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\obj\Debug\net8.0\Modulo 1.pdb
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\obj\Debug\net8.0\Modulo 1.genruntimeconfig.cache
+C:\Users\Diogo Nogueira\Dropbox\My PC (LAPTOP-0BRVT9UA)\Desktop\dotnet\POO\Modulo 1\obj\Debug\net8.0\ref\Modulo 1.dll
